@@ -1,0 +1,6 @@
+
+# Excel files
+*.xlsx binary
+*.xls binary
+*.xlsm binary
+*.xlsb binary
